@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotateArray", "RotateArray\RotateArray.csproj", "{E6E83451-2EDD-4CB5-AB5E-EAAD6586B0FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseString", "ReverseString\ReverseString.csproj", "{5353D9FA-B180-4C20-BEBF-878EB868457D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstUniqueCharacterInString", "FirstUniqueCharacterInString\FirstUniqueCharacterInString.csproj", "{1E5410B6-1AF5-40A5-A1B8-2A7BBAE82666}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6E83451-2EDD-4CB5-AB5E-EAAD6586B0FC}.Debug|x86.ActiveCfg = Debug|x86
+		{E6E83451-2EDD-4CB5-AB5E-EAAD6586B0FC}.Debug|x86.Build.0 = Debug|x86
+		{E6E83451-2EDD-4CB5-AB5E-EAAD6586B0FC}.Release|x86.ActiveCfg = Release|x86
+		{E6E83451-2EDD-4CB5-AB5E-EAAD6586B0FC}.Release|x86.Build.0 = Release|x86
+		{5353D9FA-B180-4C20-BEBF-878EB868457D}.Debug|x86.ActiveCfg = Debug|x86
+		{5353D9FA-B180-4C20-BEBF-878EB868457D}.Debug|x86.Build.0 = Debug|x86
+		{5353D9FA-B180-4C20-BEBF-878EB868457D}.Release|x86.ActiveCfg = Release|x86
+		{5353D9FA-B180-4C20-BEBF-878EB868457D}.Release|x86.Build.0 = Release|x86
+		{1E5410B6-1AF5-40A5-A1B8-2A7BBAE82666}.Debug|x86.ActiveCfg = Debug|x86
+		{1E5410B6-1AF5-40A5-A1B8-2A7BBAE82666}.Debug|x86.Build.0 = Debug|x86
+		{1E5410B6-1AF5-40A5-A1B8-2A7BBAE82666}.Release|x86.ActiveCfg = Release|x86
+		{1E5410B6-1AF5-40A5-A1B8-2A7BBAE82666}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
